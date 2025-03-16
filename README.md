@@ -4,8 +4,8 @@ Welcome to my GitHub! I’m a **Data Scientist & Machine Learning Enthusiast** p
 
 ## 🚀 About Me  
 🎓 **Education:**  
-- **M.S. in Computer Science (Machine Learning)** – Georgia Tech (Expected Dec 2027)  
-- **B.A. in Data Science (Business & Industrial Analysis)** – UC Berkeley (Dec 2024)  
+- **M.S., Computer Science (Machine Learning)** | Georgia Tech (Expected Dec 2027)  
+- **B.A., Data Science (Business & Industrial Analysis)** | University of California, Berkeley (Dec 2024)  
 
 💡 **What I Do:**  
 - Build **machine learning models** to solve real-world problems  
