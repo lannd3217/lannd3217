@@ -19,10 +19,10 @@ Welcome to my GitHub! I’m a **Data Scientist & Machine Learning Enthusiast** p
 - **Tools:** Tableau, Jupyter Notebook, Google Colab
 
 ## 📂 Featured Projects  
-**[Inference and Prediction of PM2.5 Exposure on Youth’s Mobility Outcomes]**(https://github.com/lannd3217](https://github.com/lannd3217/Inference-and-Prediction-of-PM2.5-Exposure-on-Youth-s-Mobility-Outcomes)  
+**[Inference and Prediction of PM2.5 Exposure on Youth’s Mobility Outcomes] https://github.com/lannd3217] (https://github.com/lannd3217/Inference-and-Prediction-of-PM2.5-Exposure-on-Youth-s-Mobility-Outcomes)** 
 Developed a model to analyze the impact of **PM2.5 air pollution on youth mobility outcomes**, integrating **environmental data and predictive modeling** to inform public health policies.  
 
-**[Absenteeism Prediction Model]** (https://github.com/lannd3217/chronic-absenteeism)
+**[Absenteeism Prediction Model] (https://github.com/lannd3217/chronic-absenteeism) **
 Designed a **Random Forest model** with **95% accuracy** to predict at-risk students using educational datasets, aiding strategic interventions.  
 
 ## 📫 Let’s Connect!  
