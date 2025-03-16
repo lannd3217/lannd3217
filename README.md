@@ -28,7 +28,7 @@ Developed a model to analyze the impact of **PM2.5 air pollution on youth mobili
 Designed a **Random Forest model** with **95% accuracy** to predict at-risk students using educational datasets, aiding strategic interventions.  
 
 ## 📫 Let’s Connect!  
-💼 [LinkedIn](https://linkedin.com/in/lan-dinh3217) | ✉️ [Email](mailto:ngocld32@berkeley.edu) | 🔗 [GitHub](https://github.com/lannd3217)  
+💼 [LinkedIn](https://linkedin.com/in/lan-dinh3217) | ✉️ [Email](mailto:lanngocd.17@gmail.com) | 🔗 [GitHub](https://github.com/lannd3217)  
 
 
 <!--
