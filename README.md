@@ -21,11 +21,11 @@ Welcome to my GitHub! I’m a **Data Scientist & Machine Learning Enthusiast** p
 ## 📂 Featured Projects  
 ### [Inference and Prediction of PM2.5 Exposure on Youth’s Mobility Outcomes](https://github.com/lannd3217/Inference-and-Prediction-of-PM2.5-Exposure-on-Youth-s-Mobility-Outcomes) 
 
-Developed a model to analyze the impact of **PM2.5 air pollution on youth mobility outcomes**, integrating **environmental data and predictive modeling** to inform public health policies.  
+This project investigates the relationship between air quality (measured through PM2.5 levels) and socioeconomic mobility across California counties. By combining environmental and economic datasets, I aim to understand how exposure to poor air quality during childhood influences long-term economic outcomes. My analysis employs causal inference and predictive modeling techniques to assess and quantify these relationships.
 
 ### [Absenteeism Prediction Model](https://github.com/lannd3217/chronic-absenteeism)
 
-Designed a **Random Forest model** with **95% accuracy** to predict at-risk students using educational datasets, aiding strategic interventions.  
+This project analyzes and predicts chronic absebteeism among students in schools within the Oakland District. By leveraging historical attendance, demographics, and academic data, I build machine learning models to predict absenteeism risks and provide insights for early intervention.
 
 ## 📫 Let’s Connect!  
 💼 [LinkedIn](https://linkedin.com/in/lan-dinh3217) | ✉️ [Email](mailto:lanngocd.17@gmail.com) | 🔗 [GitHub](https://github.com/lannd3217)  
