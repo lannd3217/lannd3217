@@ -15,8 +15,11 @@ Welcome to my GitHub! I’m a **Data Scientist & Machine Learning Enthusiast** p
 
 🛠 **Tech Stack:**  
 - **Languages:** Python, SQL  
-- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, PyTorch  
-- **Tools:** Tableau, Jupyter Notebook, Google Colab
+- **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, PyTorch, LangChain  
+- **ML & AI:** Retrieval-Augmented Generation (RAG), semantic search, embeddings (sentence-transformers/all-MiniLM-L6-v2), LLM prompt engineering  
+- **Databases & Infra:** ChromaDB (vector store), persistent local storage  
+- **Tools:** Tableau, Jupyter Notebook, Google Colab, Git, Hugging Face ecosystem  
+
 
 ## 📂 Featured Projects  
 ### [Job Hunting AI Mentor (RAG-Powered Interview Prep)](https://github.com/lannd3217/Interview_RAG)  
