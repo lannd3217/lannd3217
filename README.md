@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a **Data Scientist & Machine Learning Enthusiast** p
 - **Tools:** Tableau, Jupyter Notebook, Google Colab
 
 ## 📂 Featured Projects  
-###[Job Hunting AI Mentor (RAG-Powered Interview Prep)](https://github.com/lannd3217/Interview_RAG)  
+### [Job Hunting AI Mentor (RAG-Powered Interview Prep)](https://github.com/lannd3217/Interview_RAG)  
 A retrieval-augmented generation (RAG) AI mentor that guides job seekers through data science interview preparation using knowledge from  textbooks, career advices and online community discussions such as Reddit, Quora, etc. Unlike generic chatbots, this mentor always cites its sources, building trust through transparency. Addresses a critical gap: quality career mentorship is scarce and limited by volunteer availability, but this tool scales guidance to anyone, anytime.
 
 ### [Inference and Prediction of PM2.5 Exposure on Youth’s Mobility Outcomes](https://github.com/lannd3217/Inference-and-Prediction-of-PM2.5-Exposure-on-Youth-s-Mobility-Outcomes) 
